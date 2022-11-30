@@ -20,4 +20,11 @@
     <string name="_0">0</string>
     <string name="dot">.</string>
     <string name="equal">=</string>
+    <string name="policies">Policies</string>
+    <string name="policy">Policy</string>
+    <string name="product_category">Product category</string>
+    <string name="origin_country">Origin Country</string>
+    <string name="brand">Brand</string>
+    <string name="current_policies">Current policies</string>
+    <string name="export_as_csv">Export as CSV</string>
 </resources>
